@@ -1,0 +1,30 @@
+.bg-principal{
+    -fx-background-color: #FAA42F;
+}
+
+.bg-contendor1{
+    -fx-background-color: #FABE2F;
+    -fx-background-radius:  20;
+    -fx-border-color:  #FA822F;
+    -fx-border-radius: 20;
+    -fx-border-style: solid;
+    -fx-border-width: 4;
+}
+
+.bg-contendor2{
+    -fx-background-color:  #FA5F2F;
+    -fx-background-radius:  20;
+    -fx-border-color:  #FAD72F;
+    -fx-border-radius: 20;
+    -fx-border-style: solid;
+    -fx-border-width: 4;
+}
+
+.txt-black{
+    -fx-text-fill: black;
+    -fx-font-size: 14;
+}
+
+.bg-principal-gradient{
+    -fx-background-color: linear-gradient(to bottom,#FA5F2F,#FAA42F);
+}
